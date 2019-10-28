@@ -1,0 +1,25 @@
+{
+  "name": "simple-koa",
+  "version": "1.0.0",
+  "description": "实现一个精简版的koa框架",
+  "main": "test.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingrutough1/simple-koa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingrutough1/simple-koa/issues"
+  },
+  "homepage": "https://github.com/mingrutough1/simple-koa#readme",
+  "dependencies": {
+    "koa": "^2.10.0"
+  }
+}
